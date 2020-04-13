@@ -11,6 +11,27 @@ De igual manera estamos trabajando para crear una forma de contactar a las start
 
 Repositorio creado el 13 de Abril para la coordinación de los esfuerzos de voluntariado para apoyar las startups y pymes colombianas. Creado a partir del grupo en Facebook [Startup Colombia](https://facebook.com/startupcolombia)
 
+## Reglas de juego
+Trabajamos por un objetivo común: Resolver las misiones posteadas por las startup afectadas por el confinamiento.
+Confiamos en la autonomía de todos los miembros.
+Todas las personas son libres de contribuir y de tomar decisiones consultadas.
+Cada persona que deba tomar una decisión que afecte a los demás puede preguntarle a los interesados y de esta manera es el responsable de los resultados de la toma de la decisión.
+No hay jefes. 
+Los creadores solo somos orientadores.
+Todas las personas son libres de participar y ayudar a todos en el grupo.
+
+## Herramientas
+
+Hemos habilitado 3 herramientas para trabajar en grupo
+- Airtable
+  Nos servirá para organizar la información recibida por la comunidad y gestionarla
+- Slack
+  Hemos creado un canal de comunicación para facilitar el intercambio de ideas y trabajo de todos los voluntarios y las startups
+- Github issues
+  Cada empresa puede crear un nuevo requerimiento
+  Cada voluntario puede contribuir y ayudar a resolver la misión de cada empresa
+- Este repositorio de Github
+
 ## Roles de la organización
 
 Tendremos 5 grupos de trabajo
@@ -71,25 +92,8 @@ Son todos aquellos que diligencian este [formulario](https://airtable.com/shrfIh
 - Les motiva ayudar a juntar las personas y pueden facilitar y orientar los grupos de voluntarios a lograr cumplir las misiones y facilitar el trabajo con las startups.
 - Tenemos habilidades transversales que podemos poner a disposición de todos los voluntarios.
 - Todos los orientadores pueden aplicar a través de este [formulario](https://airtable.com/shrbPt86AsorhC0gR)
-## Reglas de juego
-Se trabaja por un objetivo común: Resolver las misiones de cada startup.
-Confiamos en la autonomía de todos los miembros.
-Todas las personas son libres de contribuir y de tomar decisiones consultadas.
-Cada persona que deba tomar una decisión que afecte a los demás puede preguntar a los interesados y de esta manera es el responsable de los resultados de la toma de la decisión.
-No hay jefes. Los creadores solo somos orientadores.
-Todas las personas son libres de participar en el grupo.
 
-## Herramientas
-
-Hemos habilitado 3 herramientas para trabajar en grupo
-- Airtable
-  Nos servirá para organizar la información recibida por la comunidad y gestionarla
-- Slack
-  Hemos creado un canal de comunicación para facilitar el intercambio de ideas y trabajo de todos los voluntarios y las startups
-- Github issues
-  Cada empresa puede crear un nuevo requerimiento
-  Cada voluntario puede contribuir y ayudar a resolver la misión de cada empresa
-- Este repositorio de Github
+========
 
 ## Descargo de responsabilidad
 Este proyecto aún está en desarrollo y, como consecuencia, los usuarios pueden encontrar errores que se irán resolviendo por la comunidad. Los comentarios sobre los inconvenientes o errores son bienvenidos, correcciones y todo lo que sea por el bien de la comunidad.
