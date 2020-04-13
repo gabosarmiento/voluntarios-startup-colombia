@@ -1,3 +1,12 @@
+### Última actualización LUNES 13 DE ABRIL
+A las empresas debemos contactarlas para explicarles mejor el procedimiento de ingreso de Misiones.
+Hemos detectado a partir de ver los [issues](https://github.com/gabosarmiento/voluntarios-startup-colombia/issues) que debemos mejorar la forma en que las misiones son creadas por las empresas. 
+A los voluntarios debemos invitarlos a ingresar a nuestro Slack e interactuar con sus pares.
+
+Elaboraremos un mejor formulario para las empresas e las invitaremos a crear misiones más puntuales para ser resueltas por voluntarios. 
+De igual manera estamos trabajando para crear una forma de contactar a las startups. 
+
+
 # Voluntarios-startup-colombia
 
 Repositorio creado el 13 de Abril para la coordinación de los esfuerzos de voluntariado para apoyar las startups y pymes colombianas. Creado a partir del grupo en Facebook [Startup Colombia](https://facebook.com/startupcolombia)
@@ -42,19 +51,19 @@ Son todos aquellos que diligencian este [formulario](https://airtable.com/shrfIh
 - Es responsable por crear una misión clara y puntual.
 - Pueden aplicar de dos maneras ya sea diligenciando el siguiente [formulario](https://airtable.com/shrBx8jUdDLHYbh79) o para los usuarios familiarizados con Github pueden crear un Issue en este repositorio.
 
-### Las misiones
+### Las misiones
 
-- Las misiones pueden tener una prorroga o extender la duración.
+- Deben ser cortas en una frase o dos.
+- No deben ser una lista de actividades.
 - Deben tener un resultado esperado cuantificable.
 - Deben ser algo propio.Son tareas puntuales que un vountario pueda realizar por sus propios medios.
 - Las misiones son la forma de identificar las necesidades de la startup. La startup puede crear todo tipo de misiones.  
 - Hacen parte de un acuerdo con los demás colegas, deben ser - entendidas y aceptadas.
-- Deben ser cortas en una frase o dos.
-- No deben ser una lista de actividades.
 - Deben tener el propósito que se debe lograr dentro de la empresa.
 - Debe poder ser definida de tal forma que se pueda contrastar con toda actividad a realizar de tal manera que se pueda preguntar: ¿la actividad que realizaré contribuye a alcanzar la misión?
 - Debe estar alineada con los objetivos de la organización que es apoyar en la crisis a las empresas. Si la empresa no está en crisis debe justificar el uso del voluntario para darle prioridad a quienes más lo necesitan.
-- No son trabajos no remunerados sin limite, por lo contrario son trabajos que recompensan con un impacto en la sociedad y tienen una duración máxima.
+- No son trabajos no remunerados sin limite, por lo contrario son trabajos que recompensan con un impacto en la sociedad, que están atados a la actual coyuntura, estarán disponibles durante el confinamiento y tienen una duración máxima a completar. 
+- Las misiones pueden tener una prorroga o extender su duración, siempre y cuando se acomoden a las políticas y regulación laboral y sea de mutuo acuerdo de las partes. 
 
 ### Los orientadores
 - No somos jefes.
@@ -85,5 +94,5 @@ Hemos habilitado 3 herramientas para trabajar en grupo
 ## Descargo de responsabilidad
 Este proyecto aún está en desarrollo y, como consecuencia, los usuarios pueden encontrar errores que se irán resolviendo por la comunidad. Los comentarios sobre los inconvenientes o errores son bienvenidos, correcciones y todo lo que sea por el bien de la comunidad.
 
-## Licencia
+## Licencia
 Licenciado bajo la licencia Expat / [MIT](https://opensource.org/licenses/MIT).
