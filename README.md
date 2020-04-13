@@ -19,6 +19,7 @@ Cada persona que deba tomar una decisión que afecte a los demás puede pregunta
 No hay jefes. 
 Los creadores solo somos orientadores.
 Todas las personas son libres de participar y ayudar a todos en el grupo.
+El contenedor se convierte en un nodo que puede recibir peticiones de resolución de misiones especificas que puede resolver los voluntarios que lo conforman.
 
 ## Herramientas
 
