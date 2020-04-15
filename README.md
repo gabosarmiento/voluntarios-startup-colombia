@@ -57,8 +57,7 @@ Son todos aquellos que diligencian el [formulario](https://airtable.com/shrfIhqc
 - No deben ser una lista de actividades.
 - Deben tener un resultado esperado cuantificable.
 - Deben ser algo propio.
-- Las misiones que las startups crean son tareas puntuales que un voluntario puede realizar por sus propios medios.
-- Las misiones de los voluntarios son las tares puntuales que el voluntario asume y se compromete a realizar por sus propios medios. 
+- Las misiones que las startups crean son tareas puntuales que un voluntario puede realizar por sus propios medios. Para ser completada como misión, esta se convierte en una misión del grupo de voluntarios y el voluntario que la asume, se compromete a realizar por sus propios medios la tarea indicando en el *ISSUE* correspondiente su compromiso con la misión. 
 - Las misiones son la forma de identificar el trabajo entre los miembros de la comunidad.
 - Hacen parte de un acuerdo con los demás colegas, deben ser - entendidas y aceptadas.
 - Deben tener el propósito que se debe lograr dentro de la empresa.
