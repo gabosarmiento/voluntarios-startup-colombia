@@ -4,7 +4,7 @@ Hemos mejorado el sistema de petición de Misiones de parte de las empresas util
 
 # Voluntarios-startup-colombia
 
-**Resolver misiones de las startup afectadas por el confinamiento con voluntarios calificados**
+OBJETIVO: **Resolver misiones de las startup afectadas por el confinamiento con voluntarios calificados**
 
 Creado a partir de una [conversación](https://www.facebook.com/groups/startupco/permalink/2931523903551720/) del grupo en Facebook [Startup Colombia](https://facebook.com/startupcolombia) 
 
@@ -12,7 +12,8 @@ Creado a partir de una [conversación](https://www.facebook.com/groups/startupco
 
 - Todas las personas son libres de participar y ayudar a resolver misiones. Para asumirlo deberán registrarse mediante los formularios indicados abajo.
 - Confiamos en todos los miembros.
-- No hay jefes. Los miembros se pueden apoyar en el grupo de orientadores quienes buscan facilitar las interaciones de la comunidad de voluntarios. 
+- Las empresas son libres de publicar sus misiones y son ellas mismas las que decidan el mejor uso de nuestro voluntariado.
+- No hay jefes. Todos somos responsables de cumplir el objetivo. Los miembros se pueden apoyar en el grupo de orientadores quienes buscan facilitar las interaciones de la comunidad de voluntarios. 
 - Cada persona es autónoma. Todas las personas que estén en capacidad de contribuir pueden tomar decisiones [libremente](http://www.reinventingorganizationswiki.com/Decision_Making) haciendo participes a todos los que afecta su decisión, es decir puede preguntarle al encargado de la empresa o a su grupo de apoyo, o a toda la comunidad y de esta manera cada individuo voluntario es el responsable de los resultados de la toma de la misión.
 
 ## Roles dentro de la organización
@@ -28,15 +29,15 @@ Hemos habilitado 3 herramientas para trabajar en grupo
 - Airtable
   Nos servirá como base de datos para organizar la información recibida por la comunidad y gestionarla
 - Slack [voluntarioscovid19.slack.com](voluntarioscovid19.slack.com)
-  Es el canal de comunicación de los voluntarios para facilitar el intercambio de ideas sobre las misiones de las startups  Nota: para recibir la invitación debes diligenciar el formulario de voluntarios. Este Slack estará habilitado hasta el 11 de Julio de 2020. 
-- Github [issues](https://github.com/gabosarmiento/voluntarios-startup-colombia/issues) será el lugar donde mostraremos el avance de las misiones de voluntariado propuestas por las empresas. 
+  Es el canal de comunicación de los voluntarios para facilitar el intercambio de ideas sobre las misiones de las startups  **Nota: para recibir la invitación debes diligenciar primero el formulario de [voluntarios](https://airtable.com/shrfIhqcQTrAkDflk). Este Slack estará habilitado hasta el 11 de Julio de 2020.**
+- Github [issues](https://github.com/gabosarmiento/voluntarios-startup-colombia/issues) será el lugar donde mostraremos las misiones de voluntariado propuestas por las empresas. 
 
 ### A quiénes les puede interesar? 
 Las Startups que pueden crear *misiones* son todas aquellas afectadas por el confinamiento:
 1. Empresas que deben pivotear para adaptarse
 2. Empresas que deben arrancar un nuevo proyecto
 3. Empresas que tienen desafíos con el incremento de la demanda
-4. Empresas que ya están desplegadas y están directamente resolviendo problemas del sector de la salud
+4. Empresas que deseen apoyar a resolver problemas del sector de la salud
 5. También son bienvenidas las empresas con cualquier otro problema con respecto al impacto del coronavirus.
 
 ### ¿Cómo pueden participar las startups?
@@ -50,13 +51,15 @@ Son todas aquellas personas que deseen contribuir a las startups durante la cris
 No importa la educación, el recorrido, la experiencia, el lugar, lo único es que puedan sentirse en capacidad de apoyar o resolver misiones de las startups según su interés y capacidades.
 Son todos aquellos que diligencian el [formulario](https://airtable.com/shrfIhqcQTrAkDflk)
 
-### Las Misiones
+### Las Misiones - de las startups y de los voluntarios
 
 - Deben ser cortas en una frase o dos.
 - No deben ser una lista de actividades.
 - Deben tener un resultado esperado cuantificable.
-- Deben ser algo propio.Son tareas puntuales que un vountario pueda realizar por sus propios medios.
-- Las misiones son la forma de identificar las necesidades de la startup. La startup puede crear todo tipo de misiones.  
+- Deben ser algo propio.
+- Las misiones que las startups crean son tareas puntuales que un voluntario puede realizar por sus propios medios.
+- Las misiones de los voluntarios son las tares puntuales que el voluntario asume y se compromete a realizar por sus propios medios. 
+- Las misiones son la forma de identificar el trabajo entre los miembros de la comunidad.
 - Hacen parte de un acuerdo con los demás colegas, deben ser - entendidas y aceptadas.
 - Deben tener el propósito que se debe lograr dentro de la empresa.
 - Debe poder ser definida de tal forma que se pueda contrastar con toda actividad a realizar de tal manera que se pueda preguntar: ¿la actividad que realizaré contribuye a alcanzar la misión?
@@ -71,7 +74,7 @@ Son todos aquellos que diligencian el [formulario](https://airtable.com/shrfIhqc
 - Tenemos habilidades transversales que podemos poner a disposición de todos los voluntarios.
 - Todos los orientadores pueden aplicar a través de este [formulario](https://airtable.com/shrbPt86AsorhC0gR)
 
-### Los contenedores
+### Los contenedores de voluntarios
 
 - El propósito de los contenedores es agrupar los voluntarios por intereses o capacidades en común. 
 - Deben apoyar a resolver una misión planteada por la startup.
@@ -81,7 +84,7 @@ Son todos aquellos que diligencian el [formulario](https://airtable.com/shrfIhqc
 - Contienen en promedio 7 voluntarios para desarrollar misiones y apoyarse entre si.
 - Los contenedores es una forma de asignar las misiones por área de trabajo por ejemplo: Desarollo, Diseño, Negocios, Comunicaciones, Talento humano, Operaciones, etc.
 - Los contenedores no tienen jefes.
-- Todas las personas pueden decidir que hacer.
+- Todas las personas pueden decidir que hacer de acuerdo a las reglas de juego
 - Los contenedores sirven a las mismas empresas dentro de la comunidad como también pueden estar disponibles para atender otras empresas afuera también.  No habrá restricciones solo que se realice una misión puntual de tal forma que sea fácil de identificar qué tipo de misiones el contenedor puede hacer por la comunidad.
 - Todos los grupos tienen un canal en Slack. 
 
