@@ -1,10 +1,5 @@
-### Última actualización LUNES 13 DE ABRIL
-A las empresas debemos contactarlas para explicarles mejor el procedimiento de ingreso de Misiones.
-Hemos detectado a partir de ver los [issues](https://github.com/gabosarmiento/voluntarios-startup-colombia/issues) que debemos mejorar la forma en que las misiones son creadas por las empresas. 
-A los voluntarios debemos invitarlos a ingresar a nuestro Slack e interactuar con sus pares.
-
-Elaboraremos un mejor formulario para las empresas e las invitaremos a crear misiones más puntuales para ser resueltas por voluntarios. 
-De igual manera estamos trabajando para crear una forma de contactar a las startups. 
+### Última actualización Martes 14 de abril
+Hemos mejorado el sistema de petición de Misiones de parte de las empresas utilizando el siguiente link [https://www.videoask.com/f3b14i7pj ↗](https://www.videoask.com/f3b14i7pj)
 
 
 # Voluntarios-startup-colombia
@@ -27,7 +22,7 @@ Hemos habilitado 3 herramientas para trabajar en grupo
 - Airtable
   Nos servirá para organizar la información recibida por la comunidad y gestionarla
 - Slack
-  Hemos creado un canal de comunicación para facilitar el intercambio de ideas y trabajo de todos los voluntarios y las startups
+  Hemos creado un canal de comunicación para facilitar el intercambio de ideas y trabajo de todos los voluntarios y las startups [voluntarioscovid19.slack.com](voluntarioscovid19.slack.com)
 - Github issues
   Cada empresa puede crear un nuevo requerimiento
   Cada voluntario puede contribuir y ayudar a resolver la misión de cada empresa
